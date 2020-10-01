@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\user\desktop\лиза\программы\с++\лаба 1 семестр 4\arifmpolinom\arifmpolinom\monom.h(14): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\лиза\программы\с++\лаба 1 семестр 4\arifmpolinom\arifmpolinom\monom.h(30): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\user\desktop\лиза\программы\с++\лаба 1 семестр 4\arifmpolinom\arifmpolinom\monom.h(38): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Arifmpolinom.vcxproj -> C:\Users\User\Desktop\Лиза\программы\с++\лаба 1 семестр 4\Arifmpolinom\Debug\Arifmpolinom.exe

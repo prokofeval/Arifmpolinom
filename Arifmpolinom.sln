@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arifmpolinom", "Arifmpolinom\Arifmpolinom.vcxproj", "{06666E1E-092D-446C-AFD6-2AD7AFA023AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Debug|x64.ActiveCfg = Debug|x64
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Debug|x64.Build.0 = Debug|x64
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Debug|x86.Build.0 = Debug|Win32
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Release|x64.ActiveCfg = Release|x64
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Release|x64.Build.0 = Release|x64
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Release|x86.ActiveCfg = Release|Win32
+		{06666E1E-092D-446C-AFD6-2AD7AFA023AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E11A7651-2C3C-44D1-ADEF-BB7155A2B655}
+	EndGlobalSection
+EndGlobal
